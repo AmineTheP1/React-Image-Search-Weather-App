@@ -10,7 +10,7 @@ const ImageSearch = () => {
     e.preventDefault();
     setLoading(true);
     try {
-      const response = await axios.get(`https://pixabay.com/api/?key=47872580-c70a90fb931dc34d80e3034e5&q=${query}`);
+      const response = await axios.get(`https://pixabay.com/api/?key=API_KEY&q=${query}`);
       setImages(response.data.hits);
     } catch (error) {
       console.error('Error:', error);
