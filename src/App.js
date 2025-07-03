@@ -2,7 +2,7 @@ import React from 'react';
 import { createBrowserRouter, RouterProvider, Link, Outlet } from 'react-router-dom';
 import ImageSearch from './components/ImageSearch';
 import WeatherDisplay from './components/WeatherDisplay';
-import Home from './components/Home'; // We'll create this
+import Home from './components/Home'; 
 
 const Layout = () => {
   return (
