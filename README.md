@@ -2,6 +2,12 @@
 
 This project is a modern React application that allows users to search for images and view weather information. It demonstrates the use of React, Axios for API calls, and a clean, responsive UI.
 
+![Welcome Page](https://github.com/user-attachments/assets/0bcea780-08d3-4693-9db7-b09bafac5c02)
+
+![Image Search](https://github.com/user-attachments/assets/79d9ae21-696b-4de5-a8c5-6f6ad485a70a)
+
+![Weather Search](https://github.com/user-attachments/assets/052bb720-f33d-4e3e-a6d9-d15601b4693d)
+
 ## Features
 - **Image Search:** Search for images using a public API.
 - **Weather Display:** Get current weather information for any city.
